@@ -1,0 +1,5 @@
+user_name = 'ARUNRAJASF2'
+pwd = 'Python@123'
+wh = 'COMPUTE_WH'
+role = 'ACCOUNTADMIN'
+account_id = 'is22737.ap-southeast-1'
